@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="" />
+    <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/02-字符串.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code06_对角线遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code11_最长公共前缀.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,6 +43,7 @@
     <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="2Gnd0t2FhzsV2mvtcPA0Q1ZTLVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +52,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/1project&quot;,
@@ -55,33 +66,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code05_零矩阵">
-    <configuration name="code01_寻找数组的中心索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code01_寻找数组的中心索引" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code02_搜索插入位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code02_搜索插入位置" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.code11_最长公共前缀">
     <configuration name="code03_合并区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code03_合并区间" />
       <module name="algorithm" />
@@ -121,13 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code06_对角线遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code06_对角线遍历" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code11_最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code11_最长公共前缀" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code11_最长公共前缀" />
+        <item itemvalue="Application.code06_对角线遍历" />
         <item itemvalue="Application.code05_零矩阵" />
         <item itemvalue="Application.code04_旋转矩阵" />
         <item itemvalue="Application.code03_合并区间" />
-        <item itemvalue="Application.code02_搜索插入位置" />
-        <item itemvalue="Application.code01_寻找数组的中心索引" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +154,9 @@
       <workItem from="1667180412817" duration="4000" />
       <workItem from="1667186502671" duration="5098000" />
       <workItem from="1667196736678" duration="2829000" />
-      <workItem from="1667207469648" duration="938000" />
+      <workItem from="1667207469648" duration="2103000" />
+      <workItem from="1667354340897" duration="3795000" />
+      <workItem from="1667393420627" duration="1393000" />
     </task>
     <servers />
   </component>
