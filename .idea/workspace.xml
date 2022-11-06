@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/02-字符串.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code06_对角线遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code11_最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code12_最长回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code13_翻转字符串里的单词.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,35 +65,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code11_最长公共前缀">
-    <configuration name="code03_合并区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code03_合并区间" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code04_旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code04_旋转矩阵" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code05_零矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code05_零矩阵" />
+  <component name="RunManager" selected="Application.code13_翻转字符串里的单词">
+    <configuration name="code01_寻找数组的中心索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code01_寻找数组的中心索引" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -132,13 +105,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code12_最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code12_最长回文子串" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code13_翻转字符串里的单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code13_翻转字符串里的单词" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code13_翻转字符串里的单词" />
+        <item itemvalue="Application.code12_最长回文子串" />
+        <item itemvalue="Application.code01_寻找数组的中心索引" />
         <item itemvalue="Application.code11_最长公共前缀" />
         <item itemvalue="Application.code06_对角线遍历" />
-        <item itemvalue="Application.code05_零矩阵" />
-        <item itemvalue="Application.code04_旋转矩阵" />
-        <item itemvalue="Application.code03_合并区间" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +155,37 @@
       <workItem from="1667196736678" duration="2829000" />
       <workItem from="1667207469648" duration="2103000" />
       <workItem from="1667354340897" duration="3795000" />
-      <workItem from="1667393420627" duration="1393000" />
+      <workItem from="1667393420627" duration="1836000" />
+      <workItem from="1667438986023" duration="197000" />
+      <workItem from="1667518833134" duration="6000" />
+      <workItem from="1667715039143" duration="2793000" />
     </task>
+    <task id="LOCAL-00001" summary="2022/11/2 字符串学习">
+      <created>1667395076359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667395076359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022/11/2 字符串学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/2 字符串学习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class01_数组和字符串/code13_翻转字符串里的单词.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
