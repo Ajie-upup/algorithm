@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code12_最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code13_翻转字符串里的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/02-双指针技巧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code14_KMP算法实现strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code21_反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01_数组和字符串/code22_数组拆分.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/00-学习网址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01_数组和字符串/0-学习网址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/01-集合，列表和数组.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01_数组和字符串/00-集合，列表和数组.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/02-字符串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01_数组和字符串/01-字符串.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,35 +69,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code13_翻转字符串里的单词">
+  <component name="RunManager" selected="Application.code22_数组拆分">
     <configuration name="code01_寻找数组的中心索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code01_寻找数组的中心索引" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code06_对角线遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code06_对角线遍历" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code11_最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code11_最长公共前缀" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -131,13 +109,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code21_反转字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code21_反转字符串" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code22_数组拆分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code22_数组拆分" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code22_数组拆分" />
+        <item itemvalue="Application.code21_反转字符串" />
         <item itemvalue="Application.code13_翻转字符串里的单词" />
         <item itemvalue="Application.code12_最长回文子串" />
         <item itemvalue="Application.code01_寻找数组的中心索引" />
-        <item itemvalue="Application.code11_最长公共前缀" />
-        <item itemvalue="Application.code06_对角线遍历" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +162,8 @@
       <workItem from="1667393420627" duration="1836000" />
       <workItem from="1667438986023" duration="197000" />
       <workItem from="1667518833134" duration="6000" />
-      <workItem from="1667715039143" duration="2793000" />
+      <workItem from="1667715039143" duration="4464000" />
+      <workItem from="1667790741620" duration="2322000" />
     </task>
     <task id="LOCAL-00001" summary="2022/11/2 字符串学习">
       <created>1667395076359</created>
@@ -167,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667395076359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2022/11/6 字符串学习 - 最长回文子串，翻转字符串里的单词">
+      <created>1667718114099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667718114099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,17 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022/11/2 字符串学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/11/2 字符串学习" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/class01_数组和字符串/code13_翻转字符串里的单词.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2022/11/6 字符串学习 - 最长回文子串，翻转字符串里的单词" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/6 字符串学习 - 最长回文子串，翻转字符串里的单词" />
   </component>
 </project>
