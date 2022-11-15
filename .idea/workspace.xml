@@ -5,31 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exersize/exersize.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code01_二分查找.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code02_快慢指针解决数组移动元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code03_相向指针有序数组的平方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code04_长度最小的子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facetext/facetext.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facetext/src/code01_随机数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/0-学习网址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/0-学习网址.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/00-集合，列表和数组.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/00-集合，列表和数组.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/01-字符串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/01-字符串.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/02-双指针技巧.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/02-双指针技巧.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code01_寻找数组的中心索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code01_寻找数组的中心索引.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code02_搜索插入位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code02_搜索插入位置.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code03_合并区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code03_合并区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code04_旋转矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code04_旋转矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code05_零矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code05_零矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code06_对角线遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code06_对角线遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code11_最长公共前缀.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code11_最长公共前缀.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code12_最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code12_最长回文子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code13_翻转字符串里的单词.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code13_翻转字符串里的单词.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code14_KMP算法实现strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code14_KMP算法实现strStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code21_反转字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code21_反转字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code22_数组拆分.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code22_数组拆分.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code23_输入有序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code23_输入有序数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code24_移除元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code24_移除元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01_数组和字符串/code25最大连续1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/class01_数组和字符串/code25最大连续1的个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,26 +50,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/1ajieStudy/Java-SE",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.27289546",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/1ajieStudy/Java-SE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27289546&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.code02_快慢指针解决数组移动元素">
+}</component>
+  <component name="RunManager" selected="Application.code04_滑动窗口长度最小的子数组">
     <configuration name="code01_二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01_数组.code01_二分查找" />
       <module name="exersize" />
@@ -97,6 +79,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code01_随机数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code01_随机数组" />
+      <module name="facetext" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code01_随机数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code01_随机数组" />
+      <module name="facetext" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code23_输入有序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code23_输入有序数组" />
-      <module name="algorithm" />
+    <configuration name="code03_相向指针有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组.code03_相向指针有序数组的平方" />
+      <module name="exersize" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="PATTERN" value="class01_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code24_移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code24_移除元素" />
-      <module name="algorithm" />
+    <configuration name="code04_滑动窗口长度最小的子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组.code04_滑动窗口长度最小的子数组" />
+      <module name="exersize" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="PATTERN" value="class01_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code04_滑动窗口长度最小的子数组" />
+        <item itemvalue="Application.code03_相向指针有序数组的平方" />
         <item itemvalue="Application.code02_快慢指针解决数组移动元素" />
         <item itemvalue="Application.code01_二分查找" />
         <item itemvalue="Application.code25最大连续1的个数" />
-        <item itemvalue="Application.code24_移除元素" />
-        <item itemvalue="Application.code23_输入有序数组" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +183,11 @@
       <workItem from="1667959800947" duration="5770000" />
       <workItem from="1667988784783" duration="11000" />
       <workItem from="1668351007776" duration="18000" />
-      <workItem from="1668388589403" duration="2614000" />
+      <workItem from="1668388589403" duration="2917000" />
+      <workItem from="1668393297403" duration="446000" />
+      <workItem from="1668394108763" duration="1246000" />
+      <workItem from="1668400115025" duration="11000" />
+      <workItem from="1668476542652" duration="2850000" />
     </task>
     <task id="LOCAL-00001" summary="2022/11/2 字符串学习">
       <created>1667395076359</created>
@@ -217,17 +217,36 @@
       <option name="project" value="LOCAL" />
       <updated>1667974952993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2022/11/14 代码随想录数组部分（二分查找，快慢指针解决数组移动元素）">
+      <created>1668391445180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668391445180</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022/11/2 字符串学习" />
     <MESSAGE value="2022/11/6 字符串学习 - 最长回文子串，翻转字符串里的单词" />
     <MESSAGE value="2022/11/7 双指针解决反转字符串，数组拆分问题（偷了个大懒）" />
     <MESSAGE value="2022/11/7 前后指针解决关于有序数组问题，快慢指针解决关于数组中移除元素问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/11/7 前后指针解决关于有序数组问题，快慢指针解决关于数组中移除元素问题" />
+    <MESSAGE value="2022/11/14 代码随想录数组部分（二分查找，快慢指针解决数组移动元素）" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/14 代码随想录数组部分（二分查找，快慢指针解决数组移动元素）" />
   </component>
 </project>
