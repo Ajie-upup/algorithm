@@ -10,14 +10,16 @@ public class code04_滑动窗口长度最小的子数组 {
         int target = 11;
         int left = 0;
         int sum = 0;
-        int result = Integer.MAX_VALUE;
+        int len = Integer.MAX_VALUE;
         for (int right = 0; right < nums.length; right++) {
             sum += nums[right];
             while (sum >= target) {
-                result = Math.min(result, right - left + 1);
-                sum -= nums[left++];
+                int temp = right - left + 1;
+                len = Math.min(temp, len);
+                sum -= nums[left];
+                left++;
             }
         }
-        System.out.println(result == Integer.MAX_VALUE ? 0 : result);
+        System.out.println(len == Integer.MAX_VALUE ? 0 : len);
     }
 }

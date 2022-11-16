@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code03_相向指针有序数组的平方.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code04_长度最小的子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facetext/facetext.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facetext/src/code01_随机数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="2022/11/14 代码随想录数组部分（相向指针解决有序数组的平方，滑动窗口解决长度最小的子数组）">
+      <change afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code05_旋转矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class02_链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class02_链表/code01_删除链表中的元素.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersize/src/class01_数组/code04_滑动窗口长度最小的子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/exersize/src/class01_数组/code04_滑动窗口长度最小的子数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code04_滑动窗口长度最小的子数组">
+  <component name="RunManager" selected="Application.code05_旋转矩阵">
     <configuration name="code01_二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01_数组.code01_二分查找" />
       <module name="exersize" />
@@ -136,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code25最大连续1的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组和字符串.code25最大连续1的个数" />
-      <module name="algorithm" />
+    <configuration name="code05_旋转矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_数组.code05_旋转矩阵" />
+      <module name="exersize" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_数组和字符串.*" />
+          <option name="PATTERN" value="class01_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code05_旋转矩阵" />
         <item itemvalue="Application.code04_滑动窗口长度最小的子数组" />
         <item itemvalue="Application.code03_相向指针有序数组的平方" />
         <item itemvalue="Application.code02_快慢指针解决数组移动元素" />
         <item itemvalue="Application.code01_二分查找" />
-        <item itemvalue="Application.code25最大连续1的个数" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +185,9 @@
       <workItem from="1668393297403" duration="446000" />
       <workItem from="1668394108763" duration="1246000" />
       <workItem from="1668400115025" duration="11000" />
-      <workItem from="1668476542652" duration="2850000" />
+      <workItem from="1668476542652" duration="3188000" />
+      <workItem from="1668489991900" duration="6000" />
+      <workItem from="1668561614854" duration="5487000" />
     </task>
     <task id="LOCAL-00001" summary="2022/11/2 字符串学习">
       <created>1667395076359</created>
@@ -224,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668391445180</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2022/11/14 代码随想录数组部分（相向指针解决有序数组的平方，滑动窗口解决长度最小的子数组）">
+      <created>1668479735685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668479735685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +254,7 @@
     <MESSAGE value="2022/11/7 双指针解决反转字符串，数组拆分问题（偷了个大懒）" />
     <MESSAGE value="2022/11/7 前后指针解决关于有序数组问题，快慢指针解决关于数组中移除元素问题" />
     <MESSAGE value="2022/11/14 代码随想录数组部分（二分查找，快慢指针解决数组移动元素）" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/11/14 代码随想录数组部分（二分查找，快慢指针解决数组移动元素）" />
+    <MESSAGE value="2022/11/14 代码随想录数组部分（相向指针解决有序数组的平方，滑动窗口解决长度最小的子数组）" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/14 代码随想录数组部分（相向指针解决有序数组的平方，滑动窗口解决长度最小的子数组）" />
   </component>
 </project>
