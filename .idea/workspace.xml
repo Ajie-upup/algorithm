@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a2b05e-fef3-4faf-b3dd-0d755c7caf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exersize/src/class02_链表/code04_单链表相交.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersize/src/class02_链表/code05_单链表的入环节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class04_字符串/code01_字符串的反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class04_字符串/code02_反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersize/src/class04_字符串/code03_替换空格.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,27 +66,33 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code01_随机数组">
-    <configuration name="code01_随机数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code01_随机数组" />
-      <module name="facetext" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code01_随机数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code01_随机数组" />
-      <module name="facetext" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code02_快慢指针解决数组移动元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组.code02_快慢指针解决数组移动元素" />
+  <component name="RunManager" selected="Application.code03_替换空格">
+    <configuration name="code01_字符串的反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_字符串.code01_字符串的反转" />
       <module name="exersize" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_数组.*" />
+          <option name="PATTERN" value="class04_字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code01_随机数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code01_随机数组" />
+      <module name="facetext" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code02_反转字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_字符串.code02_反转字符串" />
+      <module name="exersize" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04_字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code03_相向指针有序数组的平方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_数组.code03_相向指针有序数组的平方" />
+    <configuration name="code03_替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_字符串.code03_替换空格" />
       <module name="exersize" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_数组.*" />
+          <option name="PATTERN" value="class04_字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,10 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code03_替换空格" />
+        <item itemvalue="Application.code02_反转字符串" />
+        <item itemvalue="Application.code01_字符串的反转" />
         <item itemvalue="Application.code05_旋转矩阵" />
         <item itemvalue="Application.code04_滑动窗口长度最小的子数组" />
-        <item itemvalue="Application.code03_相向指针有序数组的平方" />
-        <item itemvalue="Application.code02_快慢指针解决数组移动元素" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +196,7 @@
       <workItem from="1668747639393" duration="4422000" />
       <workItem from="1668816613721" duration="3162000" />
       <workItem from="1668870015624" duration="489000" />
+      <workItem from="1668909458829" duration="6205000" />
     </task>
     <task id="LOCAL-00001" summary="2022/11/2 字符串学习">
       <created>1667395076359</created>
@@ -245,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668752341399</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="代码随想录数组部分（单链表相交，单链表的入环节点）">
+      <created>1668909597472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668909597472</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +287,7 @@
     <MESSAGE value="2022/11/14 代码随想录数组部分（相向指针解决有序数组的平方，滑动窗口解决长度最小的子数组）" />
     <MESSAGE value="2022/11/16 代码随想录数组部分（回顾滑动窗口，完成旋转矩阵）链表部分（构造单链表，删除单链表中的元素（判断头元素是否需要删除））" />
     <MESSAGE value="代码随想录数组部分(设计链表（添加/删除/查找操作），翻转链表（双指针法），删除链表中的倒数第n个元素)" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码随想录数组部分(设计链表（添加/删除/查找操作），翻转链表（双指针法），删除链表中的倒数第n个元素)" />
+    <MESSAGE value="代码随想录数组部分（单链表相交，单链表的入环节点）" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码随想录数组部分（单链表相交，单链表的入环节点）" />
   </component>
 </project>
