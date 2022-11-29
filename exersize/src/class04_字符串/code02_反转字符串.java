@@ -15,6 +15,7 @@ public class code02_反转字符串 {
         int n = s.length() - 1;
         int count = 0;
         while (count < n) {
+            //反转前k个字符
             int end = Math.min(n, count + k - 1);
             swap(chars, count, end);
             count += 2 * k;
